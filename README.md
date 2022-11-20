@@ -18,7 +18,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://pocsuite.org/guide/what-is-pocsuite3.html" ><h1 style="text-align:center;">Pocsuite3</h1></a>
+  <a href="https://pocsuite.org/guide/what-is-pocsuite3.html" >Pocsuite3</a>
 
 </h1>
 
