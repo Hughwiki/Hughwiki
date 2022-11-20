@@ -38,7 +38,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://nuclei.projectdiscovery.io"><img src="https://github.com/Hughwiki/nuclei/raw/master/static/nuclei-logo.png" width="200px" alt="Nuclei"></a>
+  <a href="https://nuclei.projectdiscovery.io">Nuclei</a>
 </h1>
 
 <h4 align="center">Fast and customisable vulnerability scanner based on simple YAML based DSL.</h4>
