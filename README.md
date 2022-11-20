@@ -29,7 +29,6 @@
 # Nuclei
 
 
-
 ![image](https://user-images.githubusercontent.com/118670924/202908886-9dd04dca-d9b1-4042-9321-73ff54c7f1c6.png)
 
 <div class="action" data-v-b005c75c=""><a class="VPButton medium alt" href="https://nuclei.projectdiscovery.io/" target="_blank" rel="noreferrer" data-v-7fa51b42="" data-v-b005c75c="">官方文档</a></div></div>
@@ -40,6 +39,46 @@
 
 <div class="action" data-v-b005c75c=""><a class="VPButton medium alt" href="https://github.com/projectdiscovery/nuclei/blob/master/SYNTAX-REFERENCE.md" target="_blank" rel="noreferrer" data-v-7fa51b42="" data-v-b005c75c="">YAML DSL 参考语法</a></div></div>
 
+<h1 align="center">
+  <br>
+  <a href="https://nuclei.projectdiscovery.io"><img src="static/nuclei-logo.png" width="200px" alt="Nuclei"></a>
+</h1>
 
+<h4 align="center">Fast and customisable vulnerability scanner based on simple YAML based DSL.</h4>
+
+
+<p align="center">
+<img src="https://img.shields.io/github/go-mod/go-version/projectdiscovery/nuclei?filename=v2%2Fgo.mod">
+<a href="https://github.com/projectdiscovery/nuclei/releases"><img src="https://img.shields.io/github/downloads/projectdiscovery/nuclei/total">
+<a href="https://github.com/projectdiscovery/nuclei/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/projectdiscovery/nuclei">
+<a href="https://github.com/projectdiscovery/nuclei/releases/"><img src="https://img.shields.io/github/release/projectdiscovery/nuclei">
+<a href="https://github.com/projectdiscovery/nuclei/issues"><img src="https://img.shields.io/github/issues-raw/projectdiscovery/nuclei">
+<a href="https://github.com/projectdiscovery/nuclei/discussions"><img src="https://img.shields.io/github/discussions/projectdiscovery/nuclei">
+<a href="https://discord.gg/projectdiscovery"><img src="https://img.shields.io/discord/695645237418131507.svg?logo=discord"></a>
+<a href="https://twitter.com/pdnuclei"><img src="https://img.shields.io/twitter/follow/pdnuclei.svg?logo=twitter"></a>
+</p>
+      
+<p align="center">
+  <a href="#how-it-works">How</a> •
+  <a href="#install-nuclei">Install</a> •
+  <a href="#for-security-engineers">For Security Engineers</a> •
+  <a href="#for-developers-and-organisations">For Developers</a> •
+  <a href="https://nuclei.projectdiscovery.io/nuclei/get-started/">Documentation</a> •
+  <a href="#credits">Credits</a> •
+  <a href="https://nuclei.projectdiscovery.io/faq/nuclei/">FAQs</a> •
+  <a href="https://discord.gg/projectdiscovery">Join Discord</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/projectdiscovery/nuclei/blob/master/README.md">English</a> •
+  <a href="https://github.com/projectdiscovery/nuclei/blob/master/README_CN.md">中文</a> •
+  <a href="https://github.com/projectdiscovery/nuclei/blob/master/README_KR.md">Korean</a>
+</p>
+
+---
+
+Nuclei is used to send requests across targets based on a template, leading to zero false positives and providing fast scanning on a large number of hosts. Nuclei offers scanning for a variety of protocols, including TCP, DNS, HTTP, SSL, File, Whois, Websocket, Headless etc. With powerful and flexible templating, Nuclei can be used to model all kinds of security checks.
+
+We have a [dedicated repository](https://github.com/projectdiscovery/nuclei-templates) that houses various type of vulnerability templates contributed by **more than 300** security researchers and engineers.
 
 
