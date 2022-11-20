@@ -18,7 +18,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://pocsuite.org/guide/what-is-pocsuite3.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq7I7FjL-nqLMKRgZe2kFhEdh_KB8tdpXMYPmYSpS38uPtWviJwm2u2_SLEAXo1t20QH8&usqp=CAU" width="200px" alt="Pocsuite3"></a>
+  <a href="https://pocsuite.org/guide/what-is-pocsuite3.html"><img src=" " width="200px" alt="Pocsuite3"></a>
 </h1>
 
 <div class="action" data-v-b005c75c=""><a class="VPButton medium alt" href="https://pocsuite.org/guide/what-is-pocsuite3.html" target="_blank" rel="noreferrer" data-v-7fa51b42="" data-v-b005c75c="">官方文档</a></div></div>
