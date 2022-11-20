@@ -6,9 +6,9 @@
 
 # Pocsuite3
 
-<img width="1316" alt="image" src="https://user-images.githubusercontent.com/118670924/202908722-824fc2fc-8c4c-42aa-8b76-0f358961b418.png">
+<div class="action" data-v-b005c75c=""><a class="VPButton medium alt" href="https://pocsuite.org/guide/what-is-pocsuite3.html" target="_blank" rel="noreferrer" data-v-7fa51b42="" data-v-b005c75c="">官方文档</a></div></div>
 
-<div class="actions" data-v-b005c75c=""><div class="action" data-v-b005c75c=""><a class="VPButton medium brand" href="/guide/what-is-pocsuite3.html" data-v-7fa51b42="" data-v-b005c75c="">Get Started</a></div><div class="action" data-v-b005c75c=""><a class="VPButton medium alt" href="https://github.com/knownsec/pocsuite3" target="_blank" rel="noreferrer" data-v-7fa51b42="" data-v-b005c75c="">View on GitHub</a></div></div>
+<div class="action" data-v-b005c75c=""><a class="VPButton medium alt" href="https://github.com/knownsec/pocsuite3" target="_blank" rel="noreferrer" data-v-7fa51b42="" data-v-b005c75c="">GitHub 项目地址</a></div></div>
 
 
 # 其二： 
@@ -17,5 +17,12 @@
 
 ![image](https://user-images.githubusercontent.com/118670924/202908886-9dd04dca-d9b1-4042-9321-73ff54c7f1c6.png)
 
-https://github.com/projectdiscovery/nuclei
+<div class="action" data-v-b005c75c=""><a class="VPButton medium alt" href="https://nuclei.projectdiscovery.io/" target="_blank" rel="noreferrer" data-v-7fa51b42="" data-v-b005c75c="">官方文档</a></div></div>
+
+<div class="action" data-v-b005c75c=""><a class="VPButton medium alt" href="https://github.com/projectdiscovery/nuclei" target="_blank" rel="noreferrer" data-v-7fa51b42="" data-v-b005c75c="">GitHub 项目地址</a></div></div>
+
+<div class="action" data-v-b005c75c=""><a class="VPButton medium alt" href="https://github.com/projectdiscovery/nuclei-templates" target="_blank" rel="noreferrer" data-v-7fa51b42="" data-v-b005c75c="">POC/EXP 库</a></div></div>
+
+<div class="action" data-v-b005c75c=""><a class="VPButton medium alt" href="https://github.com/projectdiscovery/nuclei/blob/master/SYNTAX-REFERENCE.md" target="_blank" rel="noreferrer" data-v-7fa51b42="" data-v-b005c75c="">YAML DSL 参考语法</a></div></div>
+
 
