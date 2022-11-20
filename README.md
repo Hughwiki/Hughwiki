@@ -23,6 +23,7 @@
 
 [![Python 3.x](https://img.shields.io/badge/python-3.x-yellow.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-GPLv2-red.svg)](https://raw.githubusercontent.com/knownsec/pocsuite3/master/COPYING) [![Twitter](https://img.shields.io/badge/twitter-@seebug-blue.svg)](https://twitter.com/seebug_team)
 
+---
 
 
 
@@ -41,7 +42,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://nuclei.projectdiscovery.io"><img src="static/nuclei-logo.png" width="200px" alt="Nuclei"></a>
+  <a href="https://nuclei.projectdiscovery.io"><img src="https://github.com/Hughwiki/nuclei/raw/master/static/nuclei-logo.png" width="200px" alt="Nuclei"></a>
 </h1>
 
 <h4 align="center">Fast and customisable vulnerability scanner based on simple YAML based DSL.</h4>
@@ -76,9 +77,4 @@
 </p>
 
 ---
-
-Nuclei is used to send requests across targets based on a template, leading to zero false positives and providing fast scanning on a large number of hosts. Nuclei offers scanning for a variety of protocols, including TCP, DNS, HTTP, SSL, File, Whois, Websocket, Headless etc. With powerful and flexible templating, Nuclei can be used to model all kinds of security checks.
-
-We have a [dedicated repository](https://github.com/projectdiscovery/nuclei-templates) that houses various type of vulnerability templates contributed by **more than 300** security researchers and engineers.
-
 
