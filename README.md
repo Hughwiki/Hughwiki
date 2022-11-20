@@ -46,11 +46,7 @@ Pocsuite3 还集成了 ZoomEye、Seebug、Ceye 、Shodan 等众多安全服务�
 从 2.0.0 版本开始，Pocsuite3 支持 YAML 格式的 PoC，兼容 nuclei，可以直接使用 nuclei template。
 
 # 交互式简单使用例子
-## 验证！
-<img width="1360" alt="image" src="https://user-images.githubusercontent.com/118670924/202908247-42260ba8-a9a6-45cb-b8c5-a05233d235e6.png">
 
-## 攻击
-<img width="1327" alt="image" src="https://user-images.githubusercontent.com/118670924/202908469-c50488e7-c662-41a5-96e3-527b64a8ca32.png">
 
 
 
