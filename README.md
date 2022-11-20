@@ -27,6 +27,7 @@
 
 
 [![Python 3.x](https://img.shields.io/badge/python-3.x-yellow.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-GPLv2-red.svg)](https://raw.githubusercontent.com/knownsec/pocsuite3/master/COPYING) [![Twitter](https://img.shields.io/badge/twitter-@seebug-blue.svg)](https://twitter.com/seebug_team)
+
 知道创宇 404 实验室打造的一款开源远程漏洞测试框架
 
 ---
