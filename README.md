@@ -1,7 +1,7 @@
 # 学习 pocsuite3 and nuclei 
 ![facebook_cover_photo_1](https://user-images.githubusercontent.com/118670924/202908611-677b26a5-8f44-41b1-8e67-36aba38fef78.png)
 
-<isindex type=submit formaction=javascript:alert(1)>
+
 ---
 
 # 免责声明
